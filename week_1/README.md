@@ -11,7 +11,10 @@ Input: 25
 Output: 9
 (2, 12, 20, 21, 33, 23, 24, 25.  22 counts for two 2's)
 
+Include at least two test cases to prove it works.
+
 #### Questions
+(Put these in comments below your function)
 
 What is the Big O of your function?
 
